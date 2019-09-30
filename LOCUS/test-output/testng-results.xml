@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24397" started-at="2019-09-30T11:47:59Z" finished-at="2019-09-30T11:48:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24397" started-at="2019-09-30T11:47:59Z" finished-at="2019-09-30T11:48:23Z">
+      <class name="com.app.tests.FilpKartTests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.app.tests.FilpKartTests@2ac273d3]" name="beforeTest" is-config="true" duration-ms="3985" started-at="2019-09-30T11:47:59Z" finished-at="2019-09-30T11:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="flipkartLocusTest()[pri:0, instance:com.app.tests.FilpKartTests@2ac273d3]" name="flipkartLocusTest" duration-ms="19436" started-at="2019-09-30T11:48:03Z" finished-at="2019-09-30T11:48:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartLocusTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.app.tests.FilpKartTests@2ac273d3]" name="afterTest" is-config="true" duration-ms="956" started-at="2019-09-30T11:48:22Z" finished-at="2019-09-30T11:48:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.app.tests.FilpKartTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

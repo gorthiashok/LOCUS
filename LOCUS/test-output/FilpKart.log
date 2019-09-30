@@ -1,0 +1,57 @@
+2019-09-30 17:12:36 INFO  FilpKartTests:45 - Initiaizing the driver object..
+2019-09-30 17:12:36 INFO  FilpKartTests:47 - <================================================================>
+2019-09-30 17:12:36 INFO  FilpKartTests:48 - Launching the Browser
+2019-09-30 17:12:43 INFO  FilpKartTests:63 - PAGE TITLE IS ========>Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2019-09-30 17:12:43 INFO  FilpKartTests:64 - <================================================================>
+2019-09-30 17:12:43 INFO  FilpKartTests:65 - ACTUAL   TITLE---------------->Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2019-09-30 17:12:43 INFO  FilpKartTests:66 - EXPECTED TITLE---------------->Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2019-09-30 17:12:44 INFO  FilpKartTests:76 - ACTUAL   ---------------->shoes
+2019-09-30 17:12:44 INFO  FilpKartTests:77 - EXPECTED ---------------->shoes
+2019-09-30 17:12:45 INFO  FilpKartTests:133 - Closing the browser............
+2019-09-30 17:12:46 INFO  FilpKartTests:135 - <================================================================>
+2019-09-30 17:14:51 INFO  FilpKartTests:45 - Initiaizing the driver object..
+2019-09-30 17:14:51 INFO  FilpKartTests:47 - <================================================================>
+2019-09-30 17:14:51 INFO  FilpKartTests:48 - Launching the Browser
+2019-09-30 17:14:57 INFO  FilpKartTests:63 - PAGE TITLE IS ========>Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2019-09-30 17:14:57 INFO  FilpKartTests:64 - <================================================================>
+2019-09-30 17:14:57 INFO  FilpKartTests:65 - ACTUAL   TITLE---------------->Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2019-09-30 17:14:57 INFO  FilpKartTests:66 - EXPECTED TITLE---------------->Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2019-09-30 17:14:58 INFO  FilpKartTests:76 - ACTUAL   ---------------->shoes
+2019-09-30 17:14:58 INFO  FilpKartTests:77 - EXPECTED ---------------->shoes
+2019-09-30 17:14:58 INFO  FilpKartTests:133 - Closing the browser............
+2019-09-30 17:14:59 INFO  FilpKartTests:135 - <================================================================>
+2019-09-30 17:17:06 INFO  FilpKartTests:45 - Initiaizing the driver object..
+2019-09-30 17:17:06 INFO  FilpKartTests:47 - <================================================================>
+2019-09-30 17:17:06 INFO  FilpKartTests:48 - Launching the Browser
+2019-09-30 17:17:13 INFO  FilpKartTests:63 - PAGE TITLE IS ========>Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2019-09-30 17:17:13 INFO  FilpKartTests:64 - <================================================================>
+2019-09-30 17:17:13 INFO  FilpKartTests:65 - ACTUAL   TITLE---------------->Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2019-09-30 17:17:13 INFO  FilpKartTests:66 - EXPECTED TITLE---------------->Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2019-09-30 17:17:14 INFO  FilpKartTests:76 - ACTUAL   ---------------->shoes
+2019-09-30 17:17:14 INFO  FilpKartTests:77 - EXPECTED ---------------->shoes
+2019-09-30 17:17:14 INFO  FilpKartTests:133 - Closing the browser............
+2019-09-30 17:17:15 INFO  FilpKartTests:135 - <================================================================>
+2019-09-30 17:17:59 INFO  FilpKartTests:45 - Initiaizing the driver object..
+2019-09-30 17:17:59 INFO  FilpKartTests:47 - <================================================================>
+2019-09-30 17:17:59 INFO  FilpKartTests:48 - Launching the Browser
+2019-09-30 17:18:06 INFO  FilpKartTests:63 - PAGE TITLE IS ========>Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2019-09-30 17:18:06 INFO  FilpKartTests:64 - <================================================================>
+2019-09-30 17:18:06 INFO  FilpKartTests:65 - ACTUAL   TITLE---------------->Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2019-09-30 17:18:06 INFO  FilpKartTests:66 - EXPECTED TITLE---------------->Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+2019-09-30 17:18:10 INFO  FilpKartTests:76 - ACTUAL   ---------------->shoes
+2019-09-30 17:18:10 INFO  FilpKartTests:77 - EXPECTED ---------------->shoes
+2019-09-30 17:18:14 INFO  FilpKartTests:93 - After Filter Applying------
+2019-09-30 17:18:14 INFO  FilpKartTests:94 - Min-?1500
+2019-09-30 17:18:15 INFO  FilpKartTests:95 - Puma
+2019-09-30 17:18:15 INFO  FilpKartTests:96 - ACTUAL   ---------------->Puma
+2019-09-30 17:18:15 INFO  FilpKartTests:97 - EXPECTED ---------------->Puma
+2019-09-30 17:18:15 INFO  FilpKartTests:99 - ACTUAL   ---------------->Min-?1500
+2019-09-30 17:18:15 INFO  FilpKartTests:100 - EXPECTED ---------------->Min-?1500
+2019-09-30 17:18:15 INFO  FilpKartTests:108 - CDwindow-A0C4D0F99BF5AC3E07AC159FEA8F0A62
+2019-09-30 17:18:15 INFO  FilpKartTests:108 - CDwindow-3C58227FB20A12EF88904F2F8B609D02
+2019-09-30 17:18:15 INFO  FilpKartTests:110 - Moving to Product Detail Page 
+2019-09-30 17:18:16 INFO  FilpKartTests:112 - ------->Product Detail Page<--------------- 
+2019-09-30 17:18:22 INFO  FilpKartTests:121 - ACTUAL   ---------------->LOGIN OR SIGNUP
+2019-09-30 17:18:22 INFO  FilpKartTests:122 - EXPECTED ---------------->LOGIN OR SIGNUP
+2019-09-30 17:18:22 INFO  FilpKartTests:133 - Closing the browser............
+2019-09-30 17:18:23 INFO  FilpKartTests:135 - <================================================================>
